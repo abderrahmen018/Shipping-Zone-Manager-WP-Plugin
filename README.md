@@ -1,1 +1,1 @@
-Wordpress plugin to add Algerian Wilayas
+Wordpress plugin to add Algerian Wilayas & shipping price
